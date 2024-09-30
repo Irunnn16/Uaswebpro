@@ -21,7 +21,7 @@ const Profilepage = () => {
       {users.map(users => (
         <div className='card-mosonry-item bg-base-200 hover:scale-105' key={users.id}>
           <figure className="aspect-video w-full">
-            <img src="https://robohash.org/irunn" alt="" />
+            <img src="https://robohash.org/bungtowe" alt="" />
           </figure>
           <div className="card-body"> 
             <h2 className="card-title">{users.firstName}</h2>

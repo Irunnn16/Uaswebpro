@@ -18,7 +18,7 @@ const Userpage = () => {
 
     <figure>
     <figure className="aspect-video w-40">
-            <img src="https://robohash.org/irunn" alt="" />
+            <img src="https://robohash.org/bungtowe" alt="" />
           </figure>
     </figure>
       {users ? (
