@@ -14,7 +14,7 @@ const Profilepage = () => {
 
   return (
     <>
-    <h1 className="text-5xl text-bo flex justify-center items-center">Hallo Pak iqbal</h1>
+    <h1 className="text-5xl text-bo flex justify-center items-center">Hallo User ini adalah </h1>
     <p className='text-bo flex justify-center items-center'>kumpulan Profile user</p>
 
     <div className="monsonry grid grid-cols-4 gap-3">
